@@ -8,8 +8,7 @@ This is especially important in the case of numbers,
 which differ in their pronunciation depending on their category.
 For example, it is necessary to distinguish a year like 1849 from a PIN like 3269.
 Phone numbers come in variable forms like 234-6529 or 492-499-1349 or (203)893-5938.
-Zip codes can also vary between 29481 or 49381-2395. Below is a PHONE NUMBER
-818-279-5902. Below shouldn't be a PHONE NUMBER (818)279-59021.
+Zip codes can also vary between 29481 or 49381-2395. Below shouldn't be a PHONE NUMBER (818)279-59021.
 Below is a ZIP CODE 19010. Below is a YEAR 1996. PASSED ALL TESTS."""
 
 # Strips periods from sentence-final words.
